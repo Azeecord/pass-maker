@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: rgb(57, 57, 137);
+}
+#pic1{
+    border-radius: 25px;
+}
+.line {
+    block-size: 6px;
+    background-color: black;
+    inline-size: 70px;
+    margin: 8px auto;
+}
+#bio{
+    font-family: 'Bungee Spice', cursive;
+}
+#heading{
+    font-family: 'Bungee Spice', cursive;
+}
+#biohead{
+    font-family: 'Bungee Spice', cursive;v
+}
+#down{
+    background-color: rgb(128, 0, 255);
+    border-radius: 25px;
+    font-family: 'Bungee Spice', cursive;
+    cursor: pointer;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
